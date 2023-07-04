@@ -18,7 +18,7 @@ const data = [
   { name: "January", Total: 1200 },
   { name: "February", Total: 2500 },
   { name: "March", Total: 1800 },
-  { name: "April", Total: 3200 },
+  { name: "April", Total: 2420 },
   { name: "May", Total: 1500 },
   { name: "June", Total: 2800 },
 ];
