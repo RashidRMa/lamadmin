@@ -4,3 +4,4 @@ yarn add @mui/material @emotion/react @emotion/style @mui/icons-material
 npm i @emotion/react @emotion/styled
 yarn add react-circular-progressbar
 npm install recharts
+yarn add @mui/x-data-grid
